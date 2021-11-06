@@ -25,13 +25,13 @@
 - [X] [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/)
 - [X] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [X] [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-26. [Plus One](https://leetcode.com/problems/plus-one/)
+- [X] [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
+- [X] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [X] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
+- [X] [Plus One](https://leetcode.com/problems/plus-one/)
 
 ### Medium
-1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [X] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 2. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 3. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 4. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
